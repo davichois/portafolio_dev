@@ -1,48 +1,44 @@
-# DevByRoman - 2026 Developer Portfolio
+# 🚀 Personal Portfolio
 
-![Next.js](https://img.shields.io/badge/Next.js-black)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue)
-![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8)
+A modern and interactive developer portfolio built with **Next.js**, **TypeScript**, and **Tailwind CSS**. This project showcases my work, technical skills, and professional experience through smooth animations, responsive layouts, and carefully crafted UI interactions.
 
-![Portfolio Preview](./public/projectPreview.png)
+## ✨ Features
 
-Modern software developer portfolio built with **Next.js, TypeScript, Tailwind CSS, and Framer Motion**.
+- ⚡ Built with Next.js App Router
+- 🎨 Responsive and modern design
+- 🌙 Dark mode support
+- ✨ Smooth animations and transitions
+- 🧩 Modular and scalable component architecture
+- 📂 Dynamic project showcase with case studies
+- 📬 Contact section with social links
+- 🔍 SEO optimized
+- 📱 Fully responsive across devices
 
-## Live Website
-[https://romancaseres.cloud](https://romancaseres.cloud)
+## 🛠️ Tech Stack
 
-## Features
-- Minimal brutalist UI
-- Smooth section transitions
-- Responsive design
-- Selected work showcase
-- About and skills sections
-- Fast optimized Next.js build
+- :contentReference[oaicite:0]{index=0}
+- :contentReference[oaicite:1]{index=1}
+- :contentReference[oaicite:2]{index=2}
+- :contentReference[oaicite:3]{index=3}
+- :contentReference[oaicite:4]{index=4}
+- :contentReference[oaicite:5]{index=5}
+- :contentReference[oaicite:6]{index=6}
 
-## Tech Stack
-- Next.js
-- TypeScript
-- Tailwind CSS
-- Framer Motion
-- Vercel
+## 📁 Project Structure
 
-## Preview Sections
-- Hero
-- Web Dev / UI Systems
-- About + Stack
-- Featured Work
-
-## Run Locally
 ```bash
-npm install
-npm run dev
-```
-
-## Contact
-- LinkedIn: [Add your LinkedIn URL]
-- GitHub: [https://github.com/mano-sudo](https://github.com/mano-sudo)
-- Portfolio: [https://romancaseres.cloud](https://romancaseres.cloud)
-
-
-
-# portafolio_dev
+portfolio/
+├── public/               # Static assets
+├── src/
+│   ├── app/              # App Router pages
+│   ├── components/       # Reusable UI components
+│   ├── constants/        # Static data and configuration
+│   ├── hooks/            # Custom React hooks
+│   ├── lib/              # Utility functions
+│   ├── styles/           # Global styles
+│   └── types/            # TypeScript types
+├── .gitignore
+├── next.config.ts
+├── package.json
+├── tsconfig.json
+└── README.md# portafolio_dev
