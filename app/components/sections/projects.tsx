@@ -456,12 +456,11 @@ export default function Projects() {
           {/* ——— Below lg: single column, stacked projects (theme) ——— */}
           <div className="lg:hidden">
             <h2 className="text-3xl font-black uppercase leading-[0.95] tracking-tighter text-foreground sm:text-4xl md:text-5xl">
-              Featured Work
+              TRABAJOS REALIZADOS
             </h2>
             <p className="mt-5 max-w-2xl text-sm leading-relaxed text-foreground/55 sm:text-base md:text-lg">
-              We build websites where every scroll, every transition, and every
-              interaction feels intentional. The details most teams skip are the
-              details we care about most.
+              Me obsesiona ejecutar proyectos de complejidad, me ayuda para
+              aprender y poner a prueba mis skills.
             </p>
 
             <div className="mt-12 flex flex-col gap-14 sm:mt-14 sm:gap-16 md:gap-20">
